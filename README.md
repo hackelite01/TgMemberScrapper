@@ -39,7 +39,7 @@ $ `python3 adder.py `
 
 $ `python3 add2group.py members.csv`
 
-- If you need more help <a href="https://t.me/"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+- If you need more help <a href="https://t.me/hackelite01"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 ---
 
 ## Follow Me on:
